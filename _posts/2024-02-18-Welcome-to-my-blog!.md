@@ -6,7 +6,7 @@ tags: [etc]
 pin: true
 ---
 
-Hey there, welcome to my corner of the internet! If you ever come across my site or blog, I'm pretty sure you are a either friend or a potential employer. If none of the two, well, I don't know since my webpage doesn't have any SEO yet. Whether you stumbled upon my site intentionally or by happy accident, a warm thank you for taking the time to explore my little corner of the web. 😄
+Hey there, welcome to my corner of the internet! If you ever come across my site or blog, I'm pretty sure you are either a friend or a potential employer. If none of the two, well, I don't know since my webpage doesn't have any SEO yet. Whether you stumbled upon my site intentionally or by happy accident, a warm thank you for taking the time to explore my little corner of the web. 😄
 
 Let me kick off this blogging journey with a quick intro about myself and why I decided to launch this my personal site and blog.
 
@@ -32,7 +32,7 @@ Last year, I created a mini-lab setup at home. I purchased a mini-PC from Amazon
 
 Recently, I've been dabbling in web development, crafting a [simple website](https://github.com/toff333/blving-nextjs) for my family's lending business, featuring a simple dashboard for customer accounts and transactions. It is an application with frontend, backend, and database (MongoDB) which I find quite challenging and rewarding. Plus, it's bound to enhance my skills in web application pentesting – a win-win situation! It is still currently a work in progess.
 
-Additionally, I just created a personal library on cybersecurity which contains topics, how-tos and general information on multiple domains, including but not limited to dfir, pentesting. Its published here: [chriszbga - library](https://toff333.github.io/).
+Additionally, I just created a personal library on cybersecurity which contains topics, how-tos and general information on multiple domains, including but not limited to dfir and pentesting. Its published here: [chriszbga - library](https://toff333.github.io/).
 
 Oh yeah, I am into prototyping and dabbling in Arduino projects also since I have a background on Electronics Engineering, like the [Hydroponics](https://github.com/toff333/Hydroponics) I developed for my family's lettuce 🥬 farm back in the Philippines. Along with my brother, we planned on the hardware prototype which fits the need - adding some sensors like pH, temperature, and a few motors for automation.
 
