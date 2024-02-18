@@ -19,3 +19,6 @@ package-lock.json
 
 # Misc
 assets/js/dist
+
+# Blog drafts
+_posts_drafts

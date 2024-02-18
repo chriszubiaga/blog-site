@@ -14,9 +14,9 @@ timezone: Australia/Melbourne
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: blog-chriszbga # the main title
+title: ChrisZbga Blog # the main title
 
-tagline: a personal cybersecurity blog # it will display as the sub-title
+tagline: a blog on personal experiences, cybersecurity and random stuff # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A blog covering various topics like personal experiences, how-to guides, and random articles, all focused on cybersecurity.
