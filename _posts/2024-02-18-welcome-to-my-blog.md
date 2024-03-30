@@ -3,7 +3,7 @@ title: Welcome to my personal blog! 👋
 date: 2024-02-18 18:15:00 +1100
 categories: [personal, etc]
 tags: [etc]
-pin: true
+pin: false
 ---
 
 Hey there, welcome to my corner of the internet! If you ever come across my site or blog, I'm pretty sure you are either a friend or a potential employer. If none of the two, well, I don't know since my webpage doesn't have any SEO yet. Whether you stumbled upon my site intentionally or by happy accident, a warm thank you for taking the time to explore my simple blog site. 😄
